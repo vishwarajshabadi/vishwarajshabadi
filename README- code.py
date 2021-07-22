@@ -5,7 +5,7 @@ class Vishwaraj:
         self.location = "Terra (pro tempore)"
         self.language_spoken = ["English", "French", "German", "Hindi", "Kannada", "Odia"]
         self.interests = ["Cryptocurrency", "Physics", "Programming", "Photography"]
-        self.website = ""
+        self.website = "https://vshabadi.github.io/bio-link-tool.me/"
     
     def work(self):
         self.company = "Fervium"
