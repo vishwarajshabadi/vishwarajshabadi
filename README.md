@@ -24,7 +24,6 @@ class Vishwaraj:
 
     def hi(self):
         print("Hello there. Welcome to my profile")
-        print("Here's some Advice : 'There are two rules for success: 1) Never tell anyone everything you know.'")
 
 Vishwaraj.hi(())
 ```
