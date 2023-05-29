@@ -4,15 +4,11 @@ class Vishwaraj:
 
     def human(self):
         self.name = "Vishwaraj Shabadi"
-        self.location = "Terra (pro tempore)"
+        self.location = "Lile, France"
         self.language_spoken = ["English", "French", "German", "Hindi", "Kannada", "Odia"]
-        self.interests = ["Cryptocurrency", "Physics", "Programming", "Photography"]
+        self.interests = ["Finance", "Maths", "Programming", "Photography"]
         self.website = "https://vshabadi.github.io/bio-link-tool.me/"
     
-    def work(self):
-        self.company = "Fervium"
-        self.position = ["Founder", "CEO", "etc."]
-
     def studies(self):
         self.diplomas = {
             "Diplôme National du Brevet" : "2020"
